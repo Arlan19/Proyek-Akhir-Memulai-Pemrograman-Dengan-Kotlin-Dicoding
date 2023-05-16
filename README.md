@@ -1,9 +1,9 @@
-# Proyek Submission MPK 
+# Proyek Submission Memulai Pemrograman Dengan Kotlin
 
-**Aturan mengerjakan submission**<br>
-Agar tugas submission dapat diperiksa dan diterima dengan baik, sebaiknya hindari beberapa hal berikut:
+**Submission ini merupakan Proyek akhir sebagai syarat menyelesaikan kelas Memulai Pemrograman Dengan Kotlin Dicoding**<br>
 
-- Mengubah kode yang berada di dalam fungsi main()
-- Mengubah (kecuali untuk mengerjakan TODO) atau menghapus kode yang sudah ada
-- Membuat fungsi baru yang bukan merupakan tugas latihan
-- Mengubah struktur project (menghapus, mengubah, atau memindahkan package)
+Rating  
+
+⭐⭐⭐⭐⭐
+
+
